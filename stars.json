@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "stargazers_count": 17867,
+    "open_issues_count": 36,
+    "forks_count": 9896
+  },
+  {
+    "full_name": "nhost/nhost",
+    "stargazers_count": 3783,
+    "open_issues_count": 94,
+    "forks_count": 202
+  },
+  {
+    "full_name": "Kathalysth/eng-practices",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ossu/data-science",
-    "stargazers_count": 15471,
+    "stargazers_count": 15491,
     "open_issues_count": 1,
-    "forks_count": 2707
+    "forks_count": 2708
   },
   {
     "full_name": "Kathalysth/nodebestpractices",
@@ -19,8 +37,8 @@
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33532,
+    "stargazers_count": 33661,
     "open_issues_count": 5,
-    "forks_count": 7876
+    "forks_count": 7920
   }
 ]
