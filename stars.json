@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "PaystackHQ/nigerialogos",
+    "stargazers_count": 247,
+    "open_issues_count": 17,
+    "forks_count": 244
+  },
+  {
+    "full_name": "Ileriayo/markdown-badges",
+    "stargazers_count": 5389,
+    "open_issues_count": 31,
+    "forks_count": 830
+  },
+  {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 18314,
-    "open_issues_count": 48,
-    "forks_count": 10195
+    "stargazers_count": 18593,
+    "open_issues_count": 52,
+    "forks_count": 10287
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 4084,
-    "open_issues_count": 103,
-    "forks_count": 218
+    "stargazers_count": 4300,
+    "open_issues_count": 107,
+    "forks_count": 224
   },
   {
     "full_name": "Kathalysth/eng-practices",
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "ossu/data-science",
-    "stargazers_count": 15591,
+    "stargazers_count": 15602,
     "open_issues_count": 1,
-    "forks_count": 2722
+    "forks_count": 2726
   },
   {
     "full_name": "Kathalysth/nodebestpractices",
@@ -37,8 +49,8 @@
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33716,
-    "open_issues_count": 8,
-    "forks_count": 7940
+    "stargazers_count": 33725,
+    "open_issues_count": 9,
+    "forks_count": 7943
   }
 ]
