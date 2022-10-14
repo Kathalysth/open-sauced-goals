@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "jwasham/coding-interview-university",
+    "stargazers_count": 235865,
+    "open_issues_count": 48,
+    "forks_count": 63100
+  },
+  {
     "full_name": "Kong/insomnia",
-    "stargazers_count": 23915,
-    "open_issues_count": 503,
-    "forks_count": 1333
+    "stargazers_count": 24004,
+    "open_issues_count": 467,
+    "forks_count": 1335
   },
   {
     "full_name": "PaystackHQ/nigerialogos",
-    "stargazers_count": 248,
-    "open_issues_count": 16,
+    "stargazers_count": 249,
+    "open_issues_count": 14,
     "forks_count": 244
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 5517,
-    "open_issues_count": 32,
-    "forks_count": 847
+    "stargazers_count": 5550,
+    "open_issues_count": 33,
+    "forks_count": 852
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 19146,
-    "open_issues_count": 49,
-    "forks_count": 10562
+    "stargazers_count": 19268,
+    "open_issues_count": 41,
+    "forks_count": 10620
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 4459,
-    "open_issues_count": 111,
-    "forks_count": 236
+    "stargazers_count": 4479,
+    "open_issues_count": 104,
+    "forks_count": 240
   },
   {
     "full_name": "Kathalysth/eng-practices",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "ossu/data-science",
-    "stargazers_count": 15657,
-    "open_issues_count": 2,
-    "forks_count": 2740
+    "stargazers_count": 15674,
+    "open_issues_count": 1,
+    "forks_count": 2743
   },
   {
     "full_name": "Kathalysth/nodebestpractices",
@@ -55,8 +61,8 @@
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33828,
-    "open_issues_count": 16,
-    "forks_count": 7987
+    "stargazers_count": 33834,
+    "open_issues_count": 19,
+    "forks_count": 7993
   }
 ]
