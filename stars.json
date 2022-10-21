@@ -1,39 +1,51 @@
 [
   {
+    "full_name": "Freework-site/Biometric_Scanner",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "webrtcHacks/adapter",
+    "stargazers_count": 3279,
+    "open_issues_count": 14,
+    "forks_count": 848
+  },
+  {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 236041,
-    "open_issues_count": 48,
-    "forks_count": 63168
+    "stargazers_count": 236213,
+    "open_issues_count": 50,
+    "forks_count": 63228
   },
   {
     "full_name": "Kong/insomnia",
-    "stargazers_count": 24089,
-    "open_issues_count": 470,
+    "stargazers_count": 24162,
+    "open_issues_count": 464,
     "forks_count": 1339
   },
   {
     "full_name": "PaystackHQ/nigerialogos",
     "stargazers_count": 249,
-    "open_issues_count": 15,
-    "forks_count": 245
+    "open_issues_count": 14,
+    "forks_count": 246
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 5597,
-    "open_issues_count": 35,
-    "forks_count": 856
+    "stargazers_count": 5630,
+    "open_issues_count": 36,
+    "forks_count": 867
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 19517,
-    "open_issues_count": 42,
-    "forks_count": 10696
+    "stargazers_count": 19661,
+    "open_issues_count": 23,
+    "forks_count": 10758
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 4561,
-    "open_issues_count": 104,
-    "forks_count": 241
+    "stargazers_count": 4590,
+    "open_issues_count": 116,
+    "forks_count": 245
   },
   {
     "full_name": "Kathalysth/eng-practices",
@@ -43,9 +55,9 @@
   },
   {
     "full_name": "ossu/data-science",
-    "stargazers_count": 15695,
+    "stargazers_count": 15705,
     "open_issues_count": 1,
-    "forks_count": 2743
+    "forks_count": 2745
   },
   {
     "full_name": "Kathalysth/nodebestpractices",
@@ -55,14 +67,14 @@
   },
   {
     "full_name": "PDFTron/webviewer-react-sample",
-    "stargazers_count": 82,
+    "stargazers_count": 84,
     "open_issues_count": 1,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33846,
+    "stargazers_count": 33849,
     "open_issues_count": 19,
-    "forks_count": 7998
+    "forks_count": 7997
   }
 ]
