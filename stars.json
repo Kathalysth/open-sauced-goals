@@ -1,9 +1,9 @@
 [
   {
     "full_name": "microsoft/ImagineCup",
-    "stargazers_count": 505,
+    "stargazers_count": 508,
     "open_issues_count": 0,
-    "forks_count": 173
+    "forks_count": 172
   },
   {
     "full_name": "Ginohmk/linter_test_repo",
@@ -14,7 +14,7 @@
   {
     "full_name": "workshopapps/applyforme.web",
     "stargazers_count": 6,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 0
   },
   {
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "webrtcHacks/adapter",
-    "stargazers_count": 3350,
+    "stargazers_count": 3353,
     "open_issues_count": 13,
-    "forks_count": 851
+    "forks_count": 852
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 242456,
-    "open_issues_count": 50,
-    "forks_count": 64638
+    "stargazers_count": 243768,
+    "open_issues_count": 52,
+    "forks_count": 64810
   },
   {
     "full_name": "Kong/insomnia",
-    "stargazers_count": 25853,
-    "open_issues_count": 457,
-    "forks_count": 1387
+    "stargazers_count": 25935,
+    "open_issues_count": 463,
+    "forks_count": 1391
   },
   {
     "full_name": "PaystackHQ/nigerialogos",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 6424,
+    "stargazers_count": 6475,
     "open_issues_count": 49,
-    "forks_count": 982
+    "forks_count": 992
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 21855,
+    "stargazers_count": 21949,
     "open_issues_count": 30,
-    "forks_count": 11839
+    "forks_count": 11870
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 5503,
-    "open_issues_count": 133,
-    "forks_count": 288
+    "stargazers_count": 5532,
+    "open_issues_count": 137,
+    "forks_count": 291
   },
   {
     "full_name": "Kathalysth/eng-practices",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "ossu/data-science",
-    "stargazers_count": 16048,
+    "stargazers_count": 16064,
     "open_issues_count": 1,
-    "forks_count": 2801
+    "forks_count": 2807
   },
   {
     "full_name": "Kathalysth/nodebestpractices",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33968,
+    "stargazers_count": 33974,
     "open_issues_count": 27,
-    "forks_count": 8048
+    "forks_count": 8049
   }
 ]
