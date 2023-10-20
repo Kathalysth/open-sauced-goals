@@ -1,63 +1,69 @@
 [
   {
+    "full_name": "gitdagray/next-auth-intro",
+    "stargazers_count": 102,
+    "open_issues_count": 0,
+    "forks_count": 36
+  },
+  {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 11064,
-    "open_issues_count": 96,
-    "forks_count": 1102
+    "stargazers_count": 12682,
+    "open_issues_count": 108,
+    "forks_count": 1261
   },
   {
     "full_name": "hypnguyen1209/JS-ebook",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 2,
     "forks_count": 76
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 20328,
+    "stargazers_count": 20344,
     "open_issues_count": 24,
-    "forks_count": 4924
+    "forks_count": 4925
   },
   {
     "full_name": "Olshansk/interview",
-    "stargazers_count": 17083,
+    "stargazers_count": 17093,
     "open_issues_count": 7,
-    "forks_count": 3657
+    "forks_count": 3659
   },
   {
     "full_name": "TomDoesTech/REST-API-Tutorial-Updated",
-    "stargazers_count": 467,
+    "stargazers_count": 470,
     "open_issues_count": 5,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "janishar/nodejs-backend-architecture-typescript",
-    "stargazers_count": 2417,
+    "stargazers_count": 2418,
     "open_issues_count": 12,
-    "forks_count": 610
+    "forks_count": 611
   },
   {
     "full_name": "John-Weeks-Dev/spotify-clone",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "amejiarosario/dsa.js-data-structures-algorithms-javascript",
-    "stargazers_count": 7372,
+    "stargazers_count": 7373,
     "open_issues_count": 6,
-    "forks_count": 921
+    "forks_count": 923
   },
   {
     "full_name": "amilajack/reading",
-    "stargazers_count": 2658,
+    "stargazers_count": 2668,
     "open_issues_count": 7,
     "forks_count": 599
   },
   {
     "full_name": "AntonioErdeljac/next13-airbnb-clone",
-    "stargazers_count": 1513,
+    "stargazers_count": 1526,
     "open_issues_count": 47,
-    "forks_count": 553
+    "forks_count": 555
   },
   {
     "full_name": "kwek-market/frontend",
@@ -67,33 +73,33 @@
   },
   {
     "full_name": "Netflix/falcor",
-    "stargazers_count": 10333,
+    "stargazers_count": 10334,
     "open_issues_count": 75,
     "forks_count": 510
   },
   {
     "full_name": "stripe/react-stripe-js",
-    "stargazers_count": 1547,
+    "stargazers_count": 1549,
     "open_issues_count": 4,
     "forks_count": 248
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 253073,
-    "open_issues_count": 674,
-    "forks_count": 35059
+    "stargazers_count": 253282,
+    "open_issues_count": 691,
+    "forks_count": 35076
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 300235,
-    "open_issues_count": 162,
-    "forks_count": 57963
+    "stargazers_count": 300331,
+    "open_issues_count": 184,
+    "forks_count": 58035
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 20973,
-    "open_issues_count": 175,
-    "forks_count": 1035
+    "stargazers_count": 20992,
+    "open_issues_count": 172,
+    "forks_count": 1036
   },
   {
     "full_name": "rajucs/Book-For-Programmers",
@@ -121,45 +127,45 @@
   },
   {
     "full_name": "webrtcHacks/adapter",
-    "stargazers_count": 3480,
+    "stargazers_count": 3482,
     "open_issues_count": 14,
-    "forks_count": 865
+    "forks_count": 866
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 269445,
+    "stargazers_count": 269714,
     "open_issues_count": 56,
-    "forks_count": 70118
+    "forks_count": 70162
   },
   {
     "full_name": "Kong/insomnia",
-    "stargazers_count": 30841,
-    "open_issues_count": 615,
-    "forks_count": 1736
+    "stargazers_count": 30859,
+    "open_issues_count": 617,
+    "forks_count": 1739
   },
   {
     "full_name": "PaystackHQ/nigerialogos",
     "stargazers_count": 267,
-    "open_issues_count": 25,
-    "forks_count": 261
+    "open_issues_count": 24,
+    "forks_count": 260
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 9514,
-    "open_issues_count": 121,
-    "forks_count": 1315
+    "stargazers_count": 9541,
+    "open_issues_count": 123,
+    "forks_count": 1316
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 27107,
-    "open_issues_count": 86,
-    "forks_count": 13487
+    "stargazers_count": 27175,
+    "open_issues_count": 87,
+    "forks_count": 13507
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 7071,
-    "open_issues_count": 96,
-    "forks_count": 422
+    "stargazers_count": 7085,
+    "open_issues_count": 99,
+    "forks_count": 425
   },
   {
     "full_name": "Kathalysth/eng-practices",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "ossu/data-science",
-    "stargazers_count": 17281,
+    "stargazers_count": 17295,
     "open_issues_count": 4,
-    "forks_count": 2966
-  },
-  {
-    "full_name": "Kathalysth/nodebestpractices",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": 2967
   }
 ]
