@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "shadcn-ui/ui",
+    "stargazers_count": 47011,
+    "open_issues_count": 1154,
+    "forks_count": 2390
+  },
+  {
     "full_name": "opensumi/core",
     "stargazers_count": 2660,
-    "open_issues_count": 155,
-    "forks_count": 341
+    "open_issues_count": 148,
+    "forks_count": 342
   },
   {
     "full_name": "ActiveCampaign/postmark-templates",
-    "stargazers_count": 2848,
+    "stargazers_count": 2851,
     "open_issues_count": 8,
     "forks_count": 1109
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 14301,
+    "stargazers_count": 14353,
     "open_issues_count": 35,
-    "forks_count": 2465
+    "forks_count": 2471
   },
   {
     "full_name": "jonathandion/awesome-emails",
-    "stargazers_count": 2213,
+    "stargazers_count": 2216,
     "open_issues_count": 6,
     "forks_count": 210
   },
@@ -37,81 +43,81 @@
   },
   {
     "full_name": "stemmlerjs/simple-typescript-starter",
-    "stargazers_count": 973,
+    "stargazers_count": 975,
     "open_issues_count": 8,
     "forks_count": 362
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 53476,
-    "open_issues_count": 34,
-    "forks_count": 5383
+    "stargazers_count": 53904,
+    "open_issues_count": 35,
+    "forks_count": 5431
   },
   {
     "full_name": "gitdagray/next-auth-intro",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 0,
     "forks_count": 54
   },
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 21115,
-    "open_issues_count": 473,
-    "forks_count": 2779
+    "stargazers_count": 21292,
+    "open_issues_count": 486,
+    "forks_count": 2812
   },
   {
     "full_name": "hypnguyen1209/JS-ebook",
-    "stargazers_count": 214,
+    "stargazers_count": 215,
     "open_issues_count": 2,
     "forks_count": 86
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 20665,
+    "stargazers_count": 20674,
     "open_issues_count": 25,
     "forks_count": 4985
   },
   {
     "full_name": "Olshansk/interview",
-    "stargazers_count": 17399,
+    "stargazers_count": 17403,
     "open_issues_count": 7,
-    "forks_count": 3698
+    "forks_count": 3700
   },
   {
     "full_name": "TomDoesTech/REST-API-Tutorial-Updated",
-    "stargazers_count": 502,
+    "stargazers_count": 503,
     "open_issues_count": 5,
-    "forks_count": 270
+    "forks_count": 272
   },
   {
     "full_name": "janishar/nodejs-backend-architecture-typescript",
-    "stargazers_count": 2516,
+    "stargazers_count": 2519,
     "open_issues_count": 11,
-    "forks_count": 646
+    "forks_count": 647
   },
   {
     "full_name": "John-Weeks-Dev/spotify-clone",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "amejiarosario/dsa.js-data-structures-algorithms-javascript",
-    "stargazers_count": 7462,
-    "open_issues_count": 6,
-    "forks_count": 963
+    "stargazers_count": 7464,
+    "open_issues_count": 7,
+    "forks_count": 965
   },
   {
     "full_name": "amilajack/reading",
-    "stargazers_count": 2799,
+    "stargazers_count": 2800,
     "open_issues_count": 7,
-    "forks_count": 626
+    "forks_count": 629
   },
   {
     "full_name": "AntonioErdeljac/next13-airbnb-clone",
-    "stargazers_count": 1707,
-    "open_issues_count": 48,
-    "forks_count": 634
+    "stargazers_count": 1712,
+    "open_issues_count": 47,
+    "forks_count": 635
   },
   {
     "full_name": "kwek-market/frontend",
@@ -121,33 +127,33 @@
   },
   {
     "full_name": "Netflix/falcor",
-    "stargazers_count": 10376,
+    "stargazers_count": 10377,
     "open_issues_count": 75,
     "forks_count": 518
   },
   {
     "full_name": "stripe/react-stripe-js",
-    "stargazers_count": 1601,
-    "open_issues_count": 3,
+    "stargazers_count": 1604,
+    "open_issues_count": 4,
     "forks_count": 255
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 264878,
-    "open_issues_count": 872,
-    "forks_count": 36434
+    "stargazers_count": 265124,
+    "open_issues_count": 886,
+    "forks_count": 36464
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 310109,
-    "open_issues_count": 36,
-    "forks_count": 59503
+    "stargazers_count": 310415,
+    "open_issues_count": 37,
+    "forks_count": 59550
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 21442,
-    "open_issues_count": 186,
-    "forks_count": 1114
+    "stargazers_count": 21455,
+    "open_issues_count": 188,
+    "forks_count": 1116
   },
   {
     "full_name": "rajucs/Book-For-Programmers",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "webrtcHacks/adapter",
-    "stargazers_count": 3532,
-    "open_issues_count": 15,
-    "forks_count": 872
   }
 ]
