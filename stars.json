@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "Kathalysth/svg-workshop",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ColorlibHQ/email-templates",
-    "stargazers_count": 1093,
+    "stargazers_count": 1094,
     "open_issues_count": 2,
-    "forks_count": 2793
+    "forks_count": 2794
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1177,
-    "open_issues_count": 86,
-    "forks_count": 406
+    "stargazers_count": 1446,
+    "open_issues_count": 101,
+    "forks_count": 471
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 14487,
-    "open_issues_count": 66,
-    "forks_count": 1143
+    "stargazers_count": 17338,
+    "open_issues_count": 80,
+    "forks_count": 1447
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-template",
-    "stargazers_count": 22873,
-    "open_issues_count": 173,
-    "forks_count": 3740
+    "stargazers_count": 22966,
+    "open_issues_count": 172,
+    "forks_count": 3757
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8621,
+    "stargazers_count": 8623,
     "open_issues_count": 14,
     "forks_count": 2443
   },
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 5400,
+    "stargazers_count": 5425,
     "open_issues_count": 196,
-    "forks_count": 1514
+    "forks_count": 1527
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 5466,
+    "stargazers_count": 5477,
     "open_issues_count": 73,
-    "forks_count": 845
+    "forks_count": 846
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 4191,
+    "stargazers_count": 4248,
     "open_issues_count": 62,
-    "forks_count": 222
+    "forks_count": 226
   },
   {
     "full_name": "HamedBahram/turbo-demo",
@@ -67,45 +73,45 @@
   },
   {
     "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6843,
+    "stargazers_count": 6844,
     "open_issues_count": 12,
     "forks_count": 1154
   },
   {
     "full_name": "media-lib/prog_lib",
-    "stargazers_count": 574,
+    "stargazers_count": 579,
     "open_issues_count": 0,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 1696,
+    "stargazers_count": 1715,
     "open_issues_count": 2,
     "forks_count": 48
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 56726,
-    "open_issues_count": 1109,
-    "forks_count": 3031
+    "stargazers_count": 57034,
+    "open_issues_count": 1121,
+    "forks_count": 3056
   },
   {
     "full_name": "opensumi/core",
-    "stargazers_count": 2716,
-    "open_issues_count": 149,
-    "forks_count": 339
+    "stargazers_count": 2718,
+    "open_issues_count": 153,
+    "forks_count": 340
   },
   {
     "full_name": "ActiveCampaign/postmark-templates",
     "stargazers_count": 2982,
     "open_issues_count": 8,
-    "forks_count": 1104
+    "forks_count": 1103
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 15844,
+    "stargazers_count": 15860,
     "open_issues_count": 36,
-    "forks_count": 2492
+    "forks_count": 2496
   },
   {
     "full_name": "jonathandion/awesome-emails",
@@ -127,27 +133,27 @@
   },
   {
     "full_name": "stemmlerjs/simple-typescript-starter",
-    "stargazers_count": 989,
+    "stargazers_count": 990,
     "open_issues_count": 8,
-    "forks_count": 366
+    "forks_count": 368
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 56701,
+    "stargazers_count": 56781,
     "open_issues_count": 38,
-    "forks_count": 5782
+    "forks_count": 5795
   },
   {
     "full_name": "gitdagray/next-auth-intro",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 0,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 24885,
-    "open_issues_count": 621,
-    "forks_count": 3533
+    "stargazers_count": 25039,
+    "open_issues_count": 629,
+    "forks_count": 3565
   },
   {
     "full_name": "hypnguyen1209/JS-ebook",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "checkcheckzz/system-design-interview",
-    "stargazers_count": 21043,
+    "stargazers_count": 21055,
     "open_issues_count": 24,
-    "forks_count": 5011
+    "forks_count": 5010
   },
   {
     "full_name": "Olshansk/interview",
-    "stargazers_count": 17519,
+    "stargazers_count": 17526,
     "open_issues_count": 7,
-    "forks_count": 3685
+    "forks_count": 3688
   },
   {
     "full_name": "TomDoesTech/REST-API-Tutorial-Updated",
-    "stargazers_count": 531,
+    "stargazers_count": 533,
     "open_issues_count": 5,
     "forks_count": 274
-  },
-  {
-    "full_name": "janishar/nodejs-backend-architecture-typescript",
-    "stargazers_count": 2586,
-    "open_issues_count": 11,
-    "forks_count": 614
   }
 ]
