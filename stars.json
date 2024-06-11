@@ -13,15 +13,15 @@
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8108,
-    "open_issues_count": 138,
-    "forks_count": 1943
+    "stargazers_count": 8111,
+    "open_issues_count": 137,
+    "forks_count": 1944
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 94065,
-    "open_issues_count": 9983,
-    "forks_count": 12105
+    "stargazers_count": 94153,
+    "open_issues_count": 9986,
+    "forks_count": 12116
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -33,29 +33,29 @@
     "full_name": "ColorlibHQ/email-templates",
     "stargazers_count": 1114,
     "open_issues_count": 2,
-    "forks_count": 2792
+    "forks_count": 2791
   },
   {
     "full_name": "code100x/chess",
     "stargazers_count": 1540,
-    "open_issues_count": 152,
-    "forks_count": 539
+    "open_issues_count": 153,
+    "forks_count": 540
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 21705,
-    "open_issues_count": 118,
-    "forks_count": 2200
+    "stargazers_count": 21889,
+    "open_issues_count": 121,
+    "forks_count": 2229
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-template",
-    "stargazers_count": 23872,
-    "open_issues_count": 172,
-    "forks_count": 3991
+    "stargazers_count": 23923,
+    "open_issues_count": 174,
+    "forks_count": 4005
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8667,
+    "stargazers_count": 8669,
     "open_issues_count": 15,
     "forks_count": 2447
   },
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 5677,
-    "open_issues_count": 224,
-    "forks_count": 1657
+    "stargazers_count": 5709,
+    "open_issues_count": 228,
+    "forks_count": 1667
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 5657,
-    "open_issues_count": 85,
-    "forks_count": 902
+    "stargazers_count": 5716,
+    "open_issues_count": 82,
+    "forks_count": 915
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 4568,
+    "stargazers_count": 4580,
     "open_issues_count": 60,
-    "forks_count": 255
+    "forks_count": 257
   },
   {
     "full_name": "HamedBahram/turbo-demo",
@@ -99,35 +99,35 @@
     "full_name": "mailgun/transactional-email-templates",
     "stargazers_count": 6862,
     "open_issues_count": 12,
-    "forks_count": 1151
+    "forks_count": 1150
   },
   {
     "full_name": "media-lib/prog_lib",
-    "stargazers_count": 653,
+    "stargazers_count": 660,
     "open_issues_count": 0,
-    "forks_count": 212
+    "forks_count": 218
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 1857,
+    "stargazers_count": 1869,
     "open_issues_count": 3,
     "forks_count": 55
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 60335,
-    "open_issues_count": 1231,
-    "forks_count": 3366
+    "stargazers_count": 60603,
+    "open_issues_count": 1147,
+    "forks_count": 3377
   },
   {
     "full_name": "opensumi/core",
-    "stargazers_count": 2790,
+    "stargazers_count": 2792,
     "open_issues_count": 160,
     "forks_count": 347
   },
   {
     "full_name": "ActiveCampaign/postmark-templates",
-    "stargazers_count": 2999,
+    "stargazers_count": 3001,
     "open_issues_count": 8,
     "forks_count": 1102
   },
@@ -135,11 +135,11 @@
     "full_name": "bgstaal/multipleWindow3dScene",
     "stargazers_count": 16252,
     "open_issues_count": 37,
-    "forks_count": 2553
+    "forks_count": 2551
   },
   {
     "full_name": "jonathandion/awesome-emails",
-    "stargazers_count": 2312,
+    "stargazers_count": 2317,
     "open_issues_count": 7,
     "forks_count": 208
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "Harshalingole/react-enterprise-boilerplate",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 59541,
+    "stargazers_count": 59644,
     "open_issues_count": 41,
-    "forks_count": 6099
+    "forks_count": 6112
   },
   {
     "full_name": "gitdagray/next-auth-intro",
-    "stargazers_count": 148,
+    "stargazers_count": 151,
     "open_issues_count": 0,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "microsoft/autogen",
-    "stargazers_count": 26946,
-    "open_issues_count": 717,
-    "forks_count": 3897
+    "stargazers_count": 27084,
+    "open_issues_count": 737,
+    "forks_count": 3928
   }
 ]
