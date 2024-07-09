@@ -25,15 +25,15 @@
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8138,
+    "stargazers_count": 8145,
     "open_issues_count": 139,
-    "forks_count": 1948
+    "forks_count": 1947
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 94785,
-    "open_issues_count": 10078,
-    "forks_count": 12213
+    "stargazers_count": 94896,
+    "open_issues_count": 10090,
+    "forks_count": 12231
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -43,33 +43,33 @@
   },
   {
     "full_name": "ColorlibHQ/email-templates",
-    "stargazers_count": 1116,
+    "stargazers_count": 1117,
     "open_issues_count": 2,
     "forks_count": 2791
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1542,
-    "open_issues_count": 147,
-    "forks_count": 548
+    "stargazers_count": 1544,
+    "open_issues_count": 149,
+    "forks_count": 550
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 22851,
-    "open_issues_count": 126,
-    "forks_count": 2402
+    "stargazers_count": 22989,
+    "open_issues_count": 128,
+    "forks_count": 2431
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-template",
-    "stargazers_count": 24419,
-    "open_issues_count": 178,
-    "forks_count": 4120
+    "stargazers_count": 24510,
+    "open_issues_count": 179,
+    "forks_count": 4138
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8696,
+    "stargazers_count": 8699,
     "open_issues_count": 15,
-    "forks_count": 2446
+    "forks_count": 2447
   },
   {
     "full_name": "devdeck101/authjs-guia",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 5846,
-    "open_issues_count": 236,
-    "forks_count": 1718
+    "stargazers_count": 5863,
+    "open_issues_count": 237,
+    "forks_count": 1725
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 5977,
-    "open_issues_count": 91,
-    "forks_count": 963
+    "stargazers_count": 6015,
+    "open_issues_count": 90,
+    "forks_count": 978
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 4914,
+    "stargazers_count": 4961,
     "open_issues_count": 62,
-    "forks_count": 274
+    "forks_count": 276
   },
   {
     "full_name": "HamedBahram/turbo-demo",
@@ -109,49 +109,49 @@
   },
   {
     "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6867,
+    "stargazers_count": 6868,
     "open_issues_count": 12,
     "forks_count": 1149
   },
   {
     "full_name": "media-lib/prog_lib",
-    "stargazers_count": 704,
+    "stargazers_count": 713,
     "open_issues_count": 0,
-    "forks_count": 229
+    "forks_count": 230
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 1938,
+    "stargazers_count": 1953,
     "open_issues_count": 4,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 62967,
-    "open_issues_count": 875,
-    "forks_count": 3545
+    "stargazers_count": 63795,
+    "open_issues_count": 873,
+    "forks_count": 3602
   },
   {
     "full_name": "opensumi/core",
-    "stargazers_count": 2803,
-    "open_issues_count": 165,
-    "forks_count": 352
+    "stargazers_count": 2805,
+    "open_issues_count": 169,
+    "forks_count": 354
   },
   {
     "full_name": "ActiveCampaign/postmark-templates",
-    "stargazers_count": 3016,
+    "stargazers_count": 3020,
     "open_issues_count": 8,
     "forks_count": 1100
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 16292,
+    "stargazers_count": 16298,
     "open_issues_count": 37,
     "forks_count": 2547
   },
   {
     "full_name": "jonathandion/awesome-emails",
-    "stargazers_count": 2329,
+    "stargazers_count": 2336,
     "open_issues_count": 7,
     "forks_count": 211
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "stemmlerjs/simple-typescript-starter",
-    "stargazers_count": 1007,
+    "stargazers_count": 1008,
     "open_issues_count": 8,
     "forks_count": 375
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 60207,
+    "stargazers_count": 60343,
     "open_issues_count": 37,
-    "forks_count": 6201
+    "forks_count": 6214
   }
 ]
