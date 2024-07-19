@@ -1,7 +1,7 @@
 [
   {
     "full_name": "TUM-Dev/gocast",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 123,
     "forks_count": 42
   },
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 6978,
+    "stargazers_count": 6980,
     "open_issues_count": 37,
     "forks_count": 2778
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8153,
-    "open_issues_count": 138,
-    "forks_count": 1950
+    "stargazers_count": 8158,
+    "open_issues_count": 139,
+    "forks_count": 1952
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 95063,
-    "open_issues_count": 10112,
-    "forks_count": 12258
+    "stargazers_count": 95154,
+    "open_issues_count": 10128,
+    "forks_count": 12275
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -49,31 +49,31 @@
   },
   {
     "full_name": "ColorlibHQ/email-templates",
-    "stargazers_count": 1118,
+    "stargazers_count": 1119,
     "open_issues_count": 2,
-    "forks_count": 2792
+    "forks_count": 2793
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1551,
-    "open_issues_count": 147,
-    "forks_count": 553
+    "stargazers_count": 1553,
+    "open_issues_count": 146,
+    "forks_count": 552
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 23223,
-    "open_issues_count": 128,
-    "forks_count": 2480
+    "stargazers_count": 23350,
+    "open_issues_count": 132,
+    "forks_count": 2504
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-template",
-    "stargazers_count": 24664,
+    "stargazers_count": 24723,
     "open_issues_count": 181,
-    "forks_count": 4173
+    "forks_count": 4178
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8706,
+    "stargazers_count": 8710,
     "open_issues_count": 15,
     "forks_count": 2447
   },
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 5898,
-    "open_issues_count": 238,
-    "forks_count": 1733
+    "stargazers_count": 5917,
+    "open_issues_count": 240,
+    "forks_count": 1742
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 6053,
-    "open_issues_count": 92,
-    "forks_count": 988
+    "stargazers_count": 6093,
+    "open_issues_count": 106,
+    "forks_count": 1004
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 5014,
-    "open_issues_count": 65,
-    "forks_count": 286
+    "stargazers_count": 5036,
+    "open_issues_count": 63,
+    "forks_count": 288
   },
   {
     "full_name": "HamedBahram/turbo-demo",
@@ -115,32 +115,32 @@
   },
   {
     "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6871,
+    "stargazers_count": 6872,
     "open_issues_count": 12,
     "forks_count": 1150
   },
   {
     "full_name": "media-lib/prog_lib",
-    "stargazers_count": 727,
+    "stargazers_count": 734,
     "open_issues_count": 0,
-    "forks_count": 229
+    "forks_count": 231
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 1987,
+    "stargazers_count": 1999,
     "open_issues_count": 4,
     "forks_count": 61
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 64429,
-    "open_issues_count": 841,
-    "forks_count": 3661
+    "stargazers_count": 64673,
+    "open_issues_count": 846,
+    "forks_count": 3685
   },
   {
     "full_name": "opensumi/core",
     "stargazers_count": 2809,
-    "open_issues_count": 171,
+    "open_issues_count": 174,
     "forks_count": 354
   },
   {
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 16297,
+    "stargazers_count": 16324,
     "open_issues_count": 37,
-    "forks_count": 2543
+    "forks_count": 2550
   },
   {
     "full_name": "jonathandion/awesome-emails",
-    "stargazers_count": 2342,
+    "stargazers_count": 2343,
     "open_issues_count": 7,
     "forks_count": 211
   },
@@ -177,6 +177,6 @@
     "full_name": "stemmlerjs/simple-typescript-starter",
     "stargazers_count": 1008,
     "open_issues_count": 8,
-    "forks_count": 377
+    "forks_count": 378
   }
 ]
