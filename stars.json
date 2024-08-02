@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "mrbajaj/books",
+    "stargazers_count": 378,
+    "open_issues_count": 1,
+    "forks_count": 221
+  },
+  {
     "full_name": "konsav/email-templates",
-    "stargazers_count": 749,
+    "stargazers_count": 750,
     "open_issues_count": 6,
     "forks_count": 316
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 30838,
+    "stargazers_count": 30906,
     "open_issues_count": 2,
-    "forks_count": 3216
+    "forks_count": 3231
   },
   {
     "full_name": "TUM-Dev/gocast",
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 6982,
+    "stargazers_count": 6985,
     "open_issues_count": 37,
     "forks_count": 2777
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8172,
+    "stargazers_count": 8174,
     "open_issues_count": 138,
-    "forks_count": 1954
+    "forks_count": 1955
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 95458,
-    "open_issues_count": 10063,
-    "forks_count": 12297
+    "stargazers_count": 95552,
+    "open_issues_count": 10069,
+    "forks_count": 12313
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -69,23 +75,23 @@
     "full_name": "code100x/chess",
     "stargazers_count": 1565,
     "open_issues_count": 145,
-    "forks_count": 553
+    "forks_count": 556
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 24897,
-    "open_issues_count": 149,
-    "forks_count": 2724
+    "stargazers_count": 25090,
+    "open_issues_count": 150,
+    "forks_count": 2757
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-template",
-    "stargazers_count": 24926,
-    "open_issues_count": 181,
-    "forks_count": 4228
+    "stargazers_count": 25004,
+    "open_issues_count": 177,
+    "forks_count": 4241
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8727,
+    "stargazers_count": 8729,
     "open_issues_count": 15,
     "forks_count": 2448
   },
@@ -103,57 +109,57 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 5973,
-    "open_issues_count": 241,
-    "forks_count": 1762
+    "stargazers_count": 5990,
+    "open_issues_count": 243,
+    "forks_count": 1767
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 6174,
-    "open_issues_count": 116,
-    "forks_count": 1026
+    "stargazers_count": 6190,
+    "open_issues_count": 104,
+    "forks_count": 1028
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 5722,
+    "stargazers_count": 5752,
     "open_issues_count": 66,
-    "forks_count": 372
+    "forks_count": 373
   },
   {
     "full_name": "HamedBahram/turbo-demo",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6877,
+    "stargazers_count": 6878,
     "open_issues_count": 12,
     "forks_count": 1149
   },
   {
     "full_name": "media-lib/prog_lib",
-    "stargazers_count": 759,
+    "stargazers_count": 765,
     "open_issues_count": 0,
-    "forks_count": 240
+    "forks_count": 239
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 2036,
+    "stargazers_count": 2043,
     "open_issues_count": 5,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 65337,
-    "open_issues_count": 899,
-    "forks_count": 3765
+    "stargazers_count": 65561,
+    "open_issues_count": 904,
+    "forks_count": 3793
   },
   {
     "full_name": "opensumi/core",
-    "stargazers_count": 2816,
-    "open_issues_count": 172,
-    "forks_count": 358
+    "stargazers_count": 2821,
+    "open_issues_count": 168,
+    "forks_count": 362
   },
   {
     "full_name": "ActiveCampaign/postmark-templates",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 16400,
+    "stargazers_count": 16411,
     "open_issues_count": 37,
-    "forks_count": 2560
+    "forks_count": 2559
   },
   {
     "full_name": "jonathandion/awesome-emails",
-    "stargazers_count": 2355,
+    "stargazers_count": 2358,
     "open_issues_count": 7,
     "forks_count": 212
-  },
-  {
-    "full_name": "WebDevSimplified/netflix-sliding-movie-ui",
-    "stargazers_count": 65,
-    "open_issues_count": 1,
-    "forks_count": 21
   }
 ]
