@@ -1,7 +1,7 @@
 [
   {
     "full_name": "Galaxies-dev/fintech-clone-react-native",
-    "stargazers_count": 260,
+    "stargazers_count": 261,
     "open_issues_count": 1,
     "forks_count": 82
   },
@@ -14,14 +14,14 @@
   {
     "full_name": "NIAEFEUP/nijobs-be",
     "stargazers_count": 18,
-    "open_issues_count": 60,
+    "open_issues_count": 59,
     "forks_count": 3
   },
   {
     "full_name": "mrbajaj/books",
-    "stargazers_count": 379,
+    "stargazers_count": 381,
     "open_issues_count": 1,
-    "forks_count": 224
+    "forks_count": 227
   },
   {
     "full_name": "konsav/email-templates",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 31083,
+    "stargazers_count": 31138,
     "open_issues_count": 2,
-    "forks_count": 3276
+    "forks_count": 3293
   },
   {
     "full_name": "TUM-Dev/gocast",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 6984,
+    "stargazers_count": 6983,
     "open_issues_count": 37,
     "forks_count": 2777
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8188,
+    "stargazers_count": 8190,
     "open_issues_count": 138,
     "forks_count": 1956
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 95894,
-    "open_issues_count": 10147,
-    "forks_count": 12361
+    "stargazers_count": 95992,
+    "open_issues_count": 10144,
+    "forks_count": 12384
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -87,29 +87,29 @@
     "full_name": "ColorlibHQ/email-templates",
     "stargazers_count": 1122,
     "open_issues_count": 2,
-    "forks_count": 2792
+    "forks_count": 2790
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1575,
+    "stargazers_count": 1577,
     "open_issues_count": 145,
-    "forks_count": 556
+    "forks_count": 559
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 25437,
-    "open_issues_count": 160,
-    "forks_count": 2818
+    "stargazers_count": 25518,
+    "open_issues_count": 165,
+    "forks_count": 2831
   },
   {
     "full_name": "fastapi/full-stack-fastapi-template",
-    "stargazers_count": 25298,
-    "open_issues_count": 181,
-    "forks_count": 4314
+    "stargazers_count": 25372,
+    "open_issues_count": 180,
+    "forks_count": 4330
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8745,
+    "stargazers_count": 8743,
     "open_issues_count": 15,
     "forks_count": 2452
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 6034,
-    "open_issues_count": 248,
-    "forks_count": 1785
+    "stargazers_count": 6044,
+    "open_issues_count": 247,
+    "forks_count": 1786
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 6256,
-    "open_issues_count": 103,
-    "forks_count": 1046
+    "stargazers_count": 6284,
+    "open_issues_count": 100,
+    "forks_count": 1047
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 5842,
+    "stargazers_count": 5851,
     "open_issues_count": 67,
     "forks_count": 384
   },
@@ -153,30 +153,30 @@
     "full_name": "mailgun/transactional-email-templates",
     "stargazers_count": 6879,
     "open_issues_count": 12,
-    "forks_count": 1150
+    "forks_count": 1149
   },
   {
     "full_name": "media-lib/prog_lib",
-    "stargazers_count": 786,
-    "open_issues_count": 0,
-    "forks_count": 247
+    "stargazers_count": 794,
+    "open_issues_count": 1,
+    "forks_count": 249
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 2071,
-    "open_issues_count": 6,
+    "stargazers_count": 2081,
+    "open_issues_count": 7,
     "forks_count": 67
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 66214,
-    "open_issues_count": 900,
-    "forks_count": 3854
+    "stargazers_count": 66418,
+    "open_issues_count": 898,
+    "forks_count": 3871
   },
   {
     "full_name": "opensumi/core",
-    "stargazers_count": 2824,
-    "open_issues_count": 180,
+    "stargazers_count": 2825,
+    "open_issues_count": 175,
     "forks_count": 365
   }
 ]
