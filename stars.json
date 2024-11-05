@@ -1,7 +1,7 @@
 [
   {
     "full_name": "vercel/shirt-shop",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "Galaxies-dev/fintech-clone-react-native",
-    "stargazers_count": 299,
+    "stargazers_count": 300,
     "open_issues_count": 1,
-    "forks_count": 104
+    "forks_count": 106
   },
   {
     "full_name": "siruthesiru/AcesNative",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "mrbajaj/books",
-    "stargazers_count": 412,
+    "stargazers_count": 417,
     "open_issues_count": 1,
-    "forks_count": 247
+    "forks_count": 248
   },
   {
     "full_name": "konsav/email-templates",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 32579,
+    "stargazers_count": 32648,
     "open_issues_count": 2,
-    "forks_count": 3561
+    "forks_count": 3569
   },
   {
     "full_name": "TUM-Dev/gocast",
-    "stargazers_count": 191,
-    "open_issues_count": 110,
+    "stargazers_count": 190,
+    "open_issues_count": 115,
     "forks_count": 42
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 6988,
+    "stargazers_count": 6989,
     "open_issues_count": 37,
     "forks_count": 2774
   },
@@ -81,13 +81,13 @@
     "full_name": "nodejs/docker-node",
     "stargazers_count": 8257,
     "open_issues_count": 142,
-    "forks_count": 1964
+    "forks_count": 1965
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 98140,
-    "open_issues_count": 10452,
-    "forks_count": 12691
+    "stargazers_count": 98225,
+    "open_issues_count": 10482,
+    "forks_count": 12697
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -97,37 +97,37 @@
   },
   {
     "full_name": "ColorlibHQ/email-templates",
-    "stargazers_count": 1139,
+    "stargazers_count": 1138,
     "open_issues_count": 2,
     "forks_count": 2787
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1615,
+    "stargazers_count": 1622,
     "open_issues_count": 149,
     "forks_count": 579
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 26916,
+    "stargazers_count": 26965,
     "open_issues_count": 185,
-    "forks_count": 3045
+    "forks_count": 3056
   },
   {
     "full_name": "fastapi/full-stack-fastapi-template",
-    "stargazers_count": 27159,
-    "open_issues_count": 172,
-    "forks_count": 4849
+    "stargazers_count": 27242,
+    "open_issues_count": 174,
+    "forks_count": 4861
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8805,
+    "stargazers_count": 8806,
     "open_issues_count": 15,
     "forks_count": 2462
   },
   {
     "full_name": "devdeck101/authjs-guia",
-    "stargazers_count": 27,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 6423,
+    "stargazers_count": 6439,
     "open_issues_count": 274,
-    "forks_count": 1965
+    "forks_count": 1974
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 8679,
-    "open_issues_count": 145,
-    "forks_count": 1637
+    "stargazers_count": 8790,
+    "open_issues_count": 160,
+    "forks_count": 1651
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 6327,
-    "open_issues_count": 64,
-    "forks_count": 405
+    "stargazers_count": 6345,
+    "open_issues_count": 61,
+    "forks_count": 404
   },
   {
     "full_name": "HamedBahram/turbo-demo",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6904,
+    "stargazers_count": 6903,
     "open_issues_count": 12,
     "forks_count": 1151
   },
   {
     "full_name": "media-lib/prog_lib",
-    "stargazers_count": 953,
+    "stargazers_count": 957,
     "open_issues_count": 1,
-    "forks_count": 303
+    "forks_count": 304
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 2284,
+    "stargazers_count": 2293,
     "open_issues_count": 11,
     "forks_count": 89
   }
