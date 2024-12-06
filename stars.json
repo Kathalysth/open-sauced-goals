@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "LazariniAna/tg-frontend",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 6871,
+    "stargazers_count": 7287,
     "open_issues_count": 67,
-    "forks_count": 586
+    "forks_count": 626
   },
   {
     "full_name": "jscottsmith/react-scroll-parallax-examples",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "sendgrid/email-templates",
-    "stargazers_count": 826,
+    "stargazers_count": 827,
     "open_issues_count": 29,
-    "forks_count": 984
+    "forks_count": 983
   },
   {
     "full_name": "vercel/shirt-shop",
@@ -33,7 +39,7 @@
     "full_name": "Galaxies-dev/fintech-clone-react-native",
     "stargazers_count": 316,
     "open_issues_count": 1,
-    "forks_count": 113
+    "forks_count": 115
   },
   {
     "full_name": "siruthesiru/AcesNative",
@@ -49,26 +55,26 @@
   },
   {
     "full_name": "mrbajaj/books",
-    "stargazers_count": 428,
+    "stargazers_count": 431,
     "open_issues_count": 1,
-    "forks_count": 258
+    "forks_count": 260
   },
   {
     "full_name": "konsav/email-templates",
-    "stargazers_count": 764,
+    "stargazers_count": 766,
     "open_issues_count": 6,
-    "forks_count": 317
+    "forks_count": 316
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 33088,
+    "stargazers_count": 33130,
     "open_issues_count": 2,
-    "forks_count": 3643
+    "forks_count": 3651
   },
   {
     "full_name": "TUM-Dev/gocast",
-    "stargazers_count": 191,
-    "open_issues_count": 105,
+    "stargazers_count": 190,
+    "open_issues_count": 102,
     "forks_count": 44
   },
   {
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 6987,
+    "stargazers_count": 6988,
     "open_issues_count": 37,
     "forks_count": 2771
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8281,
-    "open_issues_count": 144,
-    "forks_count": 1968
+    "stargazers_count": 8285,
+    "open_issues_count": 145,
+    "forks_count": 1967
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 99129,
-    "open_issues_count": 10497,
-    "forks_count": 12796
+    "stargazers_count": 99263,
+    "open_issues_count": 10506,
+    "forks_count": 12813
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -121,27 +127,27 @@
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1625,
+    "stargazers_count": 1626,
     "open_issues_count": 149,
     "forks_count": 588
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 27342,
-    "open_issues_count": 189,
-    "forks_count": 3098
+    "stargazers_count": 27384,
+    "open_issues_count": 190,
+    "forks_count": 3107
   },
   {
     "full_name": "fastapi/full-stack-fastapi-template",
-    "stargazers_count": 28097,
-    "open_issues_count": 181,
-    "forks_count": 5033
+    "stargazers_count": 28174,
+    "open_issues_count": 182,
+    "forks_count": 5049
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8848,
+    "stargazers_count": 8855,
     "open_issues_count": 15,
-    "forks_count": 2469
+    "forks_count": 2472
   },
   {
     "full_name": "devdeck101/authjs-guia",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 6593,
+    "stargazers_count": 6613,
     "open_issues_count": 279,
-    "forks_count": 2044
+    "forks_count": 2048
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 9222,
-    "open_issues_count": 123,
-    "forks_count": 1678
+    "stargazers_count": 9242,
+    "open_issues_count": 124,
+    "forks_count": 1681
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 6486,
+    "stargazers_count": 6501,
     "open_issues_count": 54,
-    "forks_count": 409
-  },
-  {
-    "full_name": "HamedBahram/turbo-demo",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 410
   }
 ]
