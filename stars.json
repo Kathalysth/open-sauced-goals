@@ -7,9 +7,9 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 7539,
-    "open_issues_count": 64,
-    "forks_count": 658
+    "stargazers_count": 7860,
+    "open_issues_count": 61,
+    "forks_count": 692
   },
   {
     "full_name": "jscottsmith/react-scroll-parallax-examples",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "crowi/crowi",
-    "stargazers_count": 1096,
+    "stargazers_count": 1095,
     "open_issues_count": 38,
     "forks_count": 169
   },
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "mrbajaj/books",
-    "stargazers_count": 433,
+    "stargazers_count": 435,
     "open_issues_count": 1,
-    "forks_count": 262
+    "forks_count": 263
   },
   {
     "full_name": "konsav/email-templates",
-    "stargazers_count": 769,
+    "stargazers_count": 770,
     "open_issues_count": 6,
     "forks_count": 316
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 33176,
+    "stargazers_count": 33223,
     "open_issues_count": 2,
-    "forks_count": 3658
+    "forks_count": 3666
   },
   {
     "full_name": "TUM-Dev/gocast",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8288,
+    "stargazers_count": 8290,
     "open_issues_count": 145,
     "forks_count": 1966
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 99370,
-    "open_issues_count": 10545,
-    "forks_count": 12833
+    "stargazers_count": 99476,
+    "open_issues_count": 10537,
+    "forks_count": 12845
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -123,29 +123,29 @@
     "full_name": "ColorlibHQ/email-templates",
     "stargazers_count": 1149,
     "open_issues_count": 2,
-    "forks_count": 2784
+    "forks_count": 2782
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1626,
+    "stargazers_count": 1627,
     "open_issues_count": 148,
-    "forks_count": 587
+    "forks_count": 588
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 27445,
-    "open_issues_count": 190,
-    "forks_count": 3118
+    "stargazers_count": 27482,
+    "open_issues_count": 191,
+    "forks_count": 3126
   },
   {
     "full_name": "fastapi/full-stack-fastapi-template",
-    "stargazers_count": 28254,
-    "open_issues_count": 185,
-    "forks_count": 5070
+    "stargazers_count": 28375,
+    "open_issues_count": 186,
+    "forks_count": 5096
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8863,
+    "stargazers_count": 8867,
     "open_issues_count": 15,
     "forks_count": 2474
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 6638,
+    "stargazers_count": 6659,
     "open_issues_count": 279,
-    "forks_count": 2052
+    "forks_count": 2057
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 9289,
-    "open_issues_count": 122,
-    "forks_count": 1689
+    "stargazers_count": 9350,
+    "open_issues_count": 139,
+    "forks_count": 1692
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 6509,
-    "open_issues_count": 54,
-    "forks_count": 413
+    "stargazers_count": 6521,
+    "open_issues_count": 55,
+    "forks_count": 416
   }
 ]
