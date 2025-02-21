@@ -19,13 +19,13 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 10946,
-    "open_issues_count": 81,
-    "forks_count": 1055
+    "stargazers_count": 11331,
+    "open_issues_count": 86,
+    "forks_count": 1094
   },
   {
     "full_name": "jscottsmith/react-scroll-parallax-examples",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 0,
     "forks_count": 57
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "mrbajaj/books",
-    "stargazers_count": 473,
+    "stargazers_count": 477,
     "open_issues_count": 1,
-    "forks_count": 282
+    "forks_count": 283
   },
   {
     "full_name": "konsav/email-templates",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 34505,
+    "stargazers_count": 34546,
     "open_issues_count": 2,
-    "forks_count": 3927
+    "forks_count": 3936
   },
   {
     "full_name": "TUM-Dev/gocast",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8351,
+    "stargazers_count": 8353,
     "open_issues_count": 147,
-    "forks_count": 1972
+    "forks_count": 1973
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 101308,
-    "open_issues_count": 10682,
-    "forks_count": 13109
+    "stargazers_count": 101396,
+    "open_issues_count": 10701,
+    "forks_count": 13126
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -139,25 +139,25 @@
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1647,
+    "stargazers_count": 1648,
     "open_issues_count": 153,
     "forks_count": 601
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 28320,
+    "stargazers_count": 28352,
     "open_issues_count": 205,
-    "forks_count": 3280
+    "forks_count": 3284
   },
   {
     "full_name": "fastapi/full-stack-fastapi-template",
-    "stargazers_count": 29726,
-    "open_issues_count": 186,
-    "forks_count": 5442
+    "stargazers_count": 29969,
+    "open_issues_count": 181,
+    "forks_count": 5489
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 8938,
+    "stargazers_count": 8940,
     "open_issues_count": 15,
     "forks_count": 2486
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "idurar/idurar-erp-crm",
-    "stargazers_count": 6931,
+    "stargazers_count": 6952,
     "open_issues_count": 290,
-    "forks_count": 2183
+    "forks_count": 2191
   }
 ]
