@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Zchasse63/glp1polycursor",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "saulamsal/apple-news-ui",
     "stargazers_count": 361,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "steven-tey/novel",
-    "stargazers_count": 15113,
+    "stargazers_count": 15122,
     "open_issues_count": 110,
     "forks_count": 1272
   },
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 12333,
-    "open_issues_count": 98,
-    "forks_count": 1232
+    "stargazers_count": 12336,
+    "open_issues_count": 99,
+    "forks_count": 1233
   },
   {
     "full_name": "jscottsmith/react-scroll-parallax-examples",
@@ -43,13 +49,13 @@
   },
   {
     "full_name": "sendgrid/email-templates",
-    "stargazers_count": 841,
+    "stargazers_count": 840,
     "open_issues_count": 29,
     "forks_count": 973
   },
   {
     "full_name": "vercel/shirt-shop",
-    "stargazers_count": 31,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "Galaxies-dev/fintech-clone-react-native",
-    "stargazers_count": 380,
+    "stargazers_count": 381,
     "open_issues_count": 1,
-    "forks_count": 146
+    "forks_count": 147
   },
   {
     "full_name": "siruthesiru/AcesNative",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "mrbajaj/books",
-    "stargazers_count": 535,
+    "stargazers_count": 537,
     "open_issues_count": 2,
     "forks_count": 322
   },
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 37302,
+    "stargazers_count": 37352,
     "open_issues_count": 2,
-    "forks_count": 4467
+    "forks_count": 4475
   },
   {
     "full_name": "TUM-Dev/gocast",
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 7012,
+    "stargazers_count": 7011,
     "open_issues_count": 37,
     "forks_count": 2752
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8447,
-    "open_issues_count": 147,
+    "stargazers_count": 8449,
+    "open_issues_count": 146,
     "forks_count": 1974
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 105510,
-    "open_issues_count": 11493,
-    "forks_count": 13613
+    "stargazers_count": 105579,
+    "open_issues_count": 11490,
+    "forks_count": 13623
   },
   {
     "full_name": "Kathalysth/svg-workshop",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "ColorlibHQ/email-templates",
-    "stargazers_count": 1194,
+    "stargazers_count": 1193,
     "open_issues_count": 2,
-    "forks_count": 2757
+    "forks_count": 2756
   },
   {
     "full_name": "code100x/chess",
-    "stargazers_count": 1682,
-    "open_issues_count": 154,
-    "forks_count": 620
+    "stargazers_count": 1683,
+    "open_issues_count": 155,
+    "forks_count": 621
   },
   {
     "full_name": "meta-llama/llama3",
-    "stargazers_count": 28878,
+    "stargazers_count": 28890,
     "open_issues_count": 213,
-    "forks_count": 3437
+    "forks_count": 3440
   },
   {
     "full_name": "fastapi/full-stack-fastapi-template",
-    "stargazers_count": 35081,
-    "open_issues_count": 212,
-    "forks_count": 6749
+    "stargazers_count": 35149,
+    "open_issues_count": 214,
+    "forks_count": 6771
   },
   {
     "full_name": "shashank88/system_design",
-    "stargazers_count": 9075,
+    "stargazers_count": 9077,
     "open_issues_count": 15,
     "forks_count": 2487
-  },
-  {
-    "full_name": "devdeck101/authjs-guia",
-    "stargazers_count": 24,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
