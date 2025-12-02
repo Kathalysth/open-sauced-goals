@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bagisto/nextjs-commerce",
-    "stargazers_count": 3225,
+    "stargazers_count": 3283,
     "open_issues_count": 1,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "imshawan/rapid-serve-client",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 36998,
-    "open_issues_count": 315,
-    "forks_count": 4633
+    "stargazers_count": 37059,
+    "open_issues_count": 310,
+    "forks_count": 4648
   },
   {
     "full_name": "ghostfolio/ghostfolio",
-    "stargazers_count": 6994,
-    "open_issues_count": 201,
-    "forks_count": 841
+    "stargazers_count": 7021,
+    "open_issues_count": 204,
+    "forks_count": 848
   },
   {
     "full_name": "Zchasse63/glp1polycursor",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "steven-tey/novel",
-    "stargazers_count": 15683,
+    "stargazers_count": 15706,
     "open_issues_count": 112,
     "forks_count": 1334
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 12834,
-    "open_issues_count": 102,
-    "forks_count": 1310
+    "stargazers_count": 12848,
+    "open_issues_count": 103,
+    "forks_count": 1311
   },
   {
     "full_name": "jscottsmith/react-scroll-parallax-examples",
@@ -117,7 +117,7 @@
     "full_name": "mrbajaj/books",
     "stargazers_count": 566,
     "open_issues_count": 2,
-    "forks_count": 330
+    "forks_count": 331
   },
   {
     "full_name": "konsav/email-templates",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 38703,
+    "stargazers_count": 38732,
     "open_issues_count": 3,
-    "forks_count": 4809
+    "forks_count": 4813
   },
   {
     "full_name": "TUM-Dev/gocast",
-    "stargazers_count": 212,
-    "open_issues_count": 113,
+    "stargazers_count": 213,
+    "open_issues_count": 114,
     "forks_count": 54
   },
   {
     "full_name": "olivierlarose/zoom-parallax",
     "stargazers_count": 33,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "Kanishk-dd/Website-Clone-1",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 7020,
+    "stargazers_count": 7019,
     "open_issues_count": 37,
     "forks_count": 2742
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8493,
+    "stargazers_count": 8495,
     "open_issues_count": 153,
-    "forks_count": 1986
+    "forks_count": 1987
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 108115,
-    "open_issues_count": 11784,
-    "forks_count": 14039
+    "stargazers_count": 108192,
+    "open_issues_count": 11789,
+    "forks_count": 14060
   },
   {
     "full_name": "Kathalysth/svg-workshop",
