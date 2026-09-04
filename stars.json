@@ -2,12 +2,12 @@
   {
     "full_name": "fccview/jotty",
     "stargazers_count": 1992,
-    "open_issues_count": 74,
+    "open_issues_count": 75,
     "forks_count": 114
   },
   {
     "full_name": "bagisto/nextjs-commerce",
-    "stargazers_count": 6367,
+    "stargazers_count": 6370,
     "open_issues_count": 1,
     "forks_count": 113
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 55976,
-    "open_issues_count": 179,
-    "forks_count": 8853
+    "stargazers_count": 56197,
+    "open_issues_count": 169,
+    "forks_count": 8916
   },
   {
     "full_name": "ghostfolio/ghostfolio",
-    "stargazers_count": 9222,
-    "open_issues_count": 300,
-    "forks_count": 1289
+    "stargazers_count": 9236,
+    "open_issues_count": 306,
+    "forks_count": 1291
   },
   {
     "full_name": "Zchasse63/glp1polycursor",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "steven-tey/novel",
-    "stargazers_count": 16430,
+    "stargazers_count": 16435,
     "open_issues_count": 119,
-    "forks_count": 1380
+    "forks_count": 1381
   },
   {
     "full_name": "growitrapid/site-main",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 16223,
-    "open_issues_count": 148,
+    "stargazers_count": 16232,
+    "open_issues_count": 149,
     "forks_count": 1725
   },
   {
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 45894,
+    "stargazers_count": 45924,
     "open_issues_count": 4,
-    "forks_count": 6000
+    "forks_count": 6006
   },
   {
     "full_name": "TUM-Dev/gocast",
     "stargazers_count": 260,
-    "open_issues_count": 113,
+    "open_issues_count": 116,
     "forks_count": 60
   },
   {
@@ -165,18 +165,18 @@
     "full_name": "mailchimp/email-blueprints",
     "stargazers_count": 7026,
     "open_issues_count": 37,
-    "forks_count": 2693
+    "forks_count": 2692
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8587,
+    "stargazers_count": 8588,
     "open_issues_count": 41,
     "forks_count": 1985
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 116941,
-    "open_issues_count": 12592,
-    "forks_count": 15498
+    "stargazers_count": 117427,
+    "open_issues_count": 12618,
+    "forks_count": 15516
   }
 ]
