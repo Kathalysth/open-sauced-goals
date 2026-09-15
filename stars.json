@@ -1,9 +1,9 @@
 [
   {
     "full_name": "fccview/jotty",
-    "stargazers_count": 1993,
-    "open_issues_count": 73,
-    "forks_count": 115
+    "stargazers_count": 1996,
+    "open_issues_count": 76,
+    "forks_count": 114
   },
   {
     "full_name": "bagisto/nextjs-commerce",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 56576,
-    "open_issues_count": 205,
-    "forks_count": 9029
+    "stargazers_count": 56785,
+    "open_issues_count": 199,
+    "forks_count": 9082
   },
   {
     "full_name": "ghostfolio/ghostfolio",
-    "stargazers_count": 9273,
-    "open_issues_count": 316,
-    "forks_count": 1307
+    "stargazers_count": 9298,
+    "open_issues_count": 314,
+    "forks_count": 1312
   },
   {
     "full_name": "Zchasse63/glp1polycursor",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "steven-tey/novel",
-    "stargazers_count": 16436,
+    "stargazers_count": 16438,
     "open_issues_count": 119,
-    "forks_count": 1382
+    "forks_count": 1379
   },
   {
     "full_name": "growitrapid/site-main",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 16258,
+    "stargazers_count": 16268,
     "open_issues_count": 149,
-    "forks_count": 1723
+    "forks_count": 1725
   },
   {
     "full_name": "jscottsmith/react-scroll-parallax-examples",
@@ -99,7 +99,7 @@
     "full_name": "crowi/crowi",
     "stargazers_count": 1099,
     "open_issues_count": 1,
-    "forks_count": 165
+    "forks_count": 164
   },
   {
     "full_name": "Galaxies-dev/fintech-clone-react-native",
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 46020,
-    "open_issues_count": 3,
-    "forks_count": 6021
+    "stargazers_count": 46081,
+    "open_issues_count": 4,
+    "forks_count": 6025
   },
   {
     "full_name": "TUM-Dev/gocast",
     "stargazers_count": 261,
-    "open_issues_count": 124,
+    "open_issues_count": 103,
     "forks_count": 60
   },
   {
@@ -165,18 +165,18 @@
     "full_name": "mailchimp/email-blueprints",
     "stargazers_count": 7025,
     "open_issues_count": 37,
-    "forks_count": 2691
+    "forks_count": 2690
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8590,
+    "stargazers_count": 8591,
     "open_issues_count": 41,
-    "forks_count": 1984
+    "forks_count": 1981
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 118378,
-    "open_issues_count": 12619,
-    "forks_count": 15549
+    "stargazers_count": 118915,
+    "open_issues_count": 12623,
+    "forks_count": 15576
   }
 ]
