@@ -1,15 +1,15 @@
 [
   {
     "full_name": "fccview/jotty",
-    "stargazers_count": 1996,
+    "stargazers_count": 2000,
     "open_issues_count": 76,
     "forks_count": 114
   },
   {
     "full_name": "bagisto/nextjs-commerce",
-    "stargazers_count": 6368,
+    "stargazers_count": 6372,
     "open_issues_count": 0,
-    "forks_count": 113
+    "forks_count": 115
   },
   {
     "full_name": "imshawan/rapid-serve-client",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 56785,
-    "open_issues_count": 199,
-    "forks_count": 9082
+    "stargazers_count": 56975,
+    "open_issues_count": 228,
+    "forks_count": 9158
   },
   {
     "full_name": "ghostfolio/ghostfolio",
-    "stargazers_count": 9298,
-    "open_issues_count": 314,
-    "forks_count": 1312
+    "stargazers_count": 9313,
+    "open_issues_count": 330,
+    "forks_count": 1317
   },
   {
     "full_name": "Zchasse63/glp1polycursor",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "steven-tey/novel",
-    "stargazers_count": 16438,
+    "stargazers_count": 16439,
     "open_issues_count": 119,
     "forks_count": 1379
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 16268,
+    "stargazers_count": 16278,
     "open_issues_count": 149,
-    "forks_count": 1725
+    "forks_count": 1723
   },
   {
     "full_name": "jscottsmith/react-scroll-parallax-examples",
@@ -87,7 +87,7 @@
     "full_name": "sendgrid/email-templates",
     "stargazers_count": 848,
     "open_issues_count": 29,
-    "forks_count": 941
+    "forks_count": 940
   },
   {
     "full_name": "vercel/shirt-shop",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "mrbajaj/books",
-    "stargazers_count": 643,
+    "stargazers_count": 644,
     "open_issues_count": 2,
     "forks_count": 358
   },
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 46081,
+    "stargazers_count": 46126,
     "open_issues_count": 4,
-    "forks_count": 6025
+    "forks_count": 6031
   },
   {
     "full_name": "TUM-Dev/gocast",
     "stargazers_count": 261,
-    "open_issues_count": 103,
+    "open_issues_count": 107,
     "forks_count": 60
   },
   {
@@ -165,18 +165,18 @@
     "full_name": "mailchimp/email-blueprints",
     "stargazers_count": 7025,
     "open_issues_count": 37,
-    "forks_count": 2690
+    "forks_count": 2689
   },
   {
     "full_name": "nodejs/docker-node",
-    "stargazers_count": 8591,
+    "stargazers_count": 8594,
     "open_issues_count": 41,
-    "forks_count": 1981
+    "forks_count": 1980
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 118915,
-    "open_issues_count": 12623,
-    "forks_count": 15576
+    "stargazers_count": 118921,
+    "open_issues_count": 12614,
+    "forks_count": 15942
   }
 ]
